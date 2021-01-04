@@ -1,0 +1,37 @@
+D:\Routing\Routing Demo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Routing\Routing Demo\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Routing\Routing Demo\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Routing\Routing Demo\bin\Debug\netcoreapp3.1\Routing Demo.exe
+D:\Routing\Routing Demo\bin\Debug\netcoreapp3.1\Routing Demo.deps.json
+D:\Routing\Routing Demo\bin\Debug\netcoreapp3.1\Routing Demo.runtimeconfig.json
+D:\Routing\Routing Demo\bin\Debug\netcoreapp3.1\Routing Demo.runtimeconfig.dev.json
+D:\Routing\Routing Demo\bin\Debug\netcoreapp3.1\Routing Demo.dll
+D:\Routing\Routing Demo\bin\Debug\netcoreapp3.1\Routing Demo.pdb
+D:\Routing\Routing Demo\bin\Debug\netcoreapp3.1\Routing Demo.Views.dll
+D:\Routing\Routing Demo\bin\Debug\netcoreapp3.1\Routing Demo.Views.pdb
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\Routing Demo.csprojAssemblyReference.cache
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\Routing Demo.AssemblyInfoInputs.cache
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\Routing Demo.AssemblyInfo.cs
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\Routing Demo.csproj.CoreCompileInputs.cache
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\Routing Demo.MvcApplicationPartsAssemblyInfo.cache
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\Routing Demo.RazorAssemblyInfo.cache
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\Routing Demo.RazorAssemblyInfo.cs
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\Routing Demo.TagHelpers.input.cache
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\Routing Demo.TagHelpers.output.cache
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\Routing Demo.RazorCoreGenerate.cache
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\Routing Demo.RazorTargetAssemblyInfo.cache
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\Routing Demo.RazorTargetAssemblyInfo.cs
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\Routing Demo.Views.pdb
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\staticwebassets\Routing Demo.StaticWebAssets.Manifest.cache
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\staticwebassets\Routing Demo.StaticWebAssets.xml
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\Routing Demo.dll
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\Routing Demo.pdb
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\Routing Demo.genruntimeconfig.cache
+D:\Routing\Routing Demo\obj\Debug\netcoreapp3.1\Routing Demo.csproj.CopyComplete
